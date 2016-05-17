@@ -47,6 +47,9 @@
         <ccTool>
           <standard>8</standard>
         </ccTool>
+        <linkerTool>
+          <output>bin/patri</output>
+        </linkerTool>
       </compileType>
       <item path="data.h" ex="false" tool="3" flavor2="0">
       </item>
